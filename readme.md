@@ -6,5 +6,6 @@ And yes, it is completely responsive💻👍
 
 Below is the link and preview of the webpage I made👇👇👇
 <br>
+[Shopify](https://ui-shopify.netlify.app/)
 
 ![shopify](shopifyui.png)
